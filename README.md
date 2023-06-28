@@ -9,6 +9,10 @@ el siguente comando desde la terminal.:
 ```bash
 make
 ```
+Para compilar con mayor pruebas:
+```bash
+./.algo2/test.sh
+```
 
 ---
 ##  Funcionamiento
